@@ -1,0 +1,1 @@
+This is a new dirictory named "Story2" with "chapter1.txt"
